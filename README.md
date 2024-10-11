@@ -1,3 +1,5 @@
+Made by: [Christian Antonius Anggaresta](https://www.linkedin.com/in/christian-antonius-anggaresta-84b715243/)
+
 # Home Page
 The home page serves as a welcome landing page for users to start the quiz. It includes a call-to-action button to log in.
 ![Home Page](https://raw.githubusercontent.com/chrisprojs/Dot-Internship-Test/main/samples/Home.png)
