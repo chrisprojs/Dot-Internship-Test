@@ -1,6 +1,6 @@
 # Home Page
 The home page serves as a welcome landing page for users to start the quiz. It includes a call-to-action button to log in
-![Alt Text]([https://raw.githubusercontent.com/yourusername/yourrepository/branchname/path/to/your/image.jpg](https://github.com/chrisprojs/Dot-Internship-Test/blob/main/examples/Home.png))
+![Alt Text]([https://github.com/chrisprojs/Dot-Internship-Test/blob/main/examples/Home.png])
 
 # Login Page
 - The login page allows users to enter their credentials (username and password).
